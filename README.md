@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Saujanya Das</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saujanya;Glad+you+are+here!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<h3 align="center">Backend Developer | DSA enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saujanya77&label=Profile%20views&color=0e75b6&style=flat" alt="saujanya77" /> </p>
 
@@ -30,6 +36,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/suji51?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
 <br>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saujanya77&show_icons=true&locale=en&layout=compact" alt="saujanya77" /></p>
 
